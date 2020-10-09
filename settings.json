@@ -1,0 +1,12 @@
+{
+  "exporter_port" : "8080",
+  "path_to_rac" : "C:\\Program Files\\1cv8\\8.3.16.1063\\bin\\rac.exe",
+  "cluster": [{
+    "infobase": [{
+      "name": "ibname",
+      "user": "admin",
+      "password": "admin"
+    }]
+  }]
+}
+
